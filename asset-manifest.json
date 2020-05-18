@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/intro-to-tdd-workshop/static/js/main.3ee4706e.chunk.js",
+    "main.js.map": "/intro-to-tdd-workshop/static/js/main.3ee4706e.chunk.js.map",
+    "runtime-main.js": "/intro-to-tdd-workshop/static/js/runtime-main.76e91417.js",
+    "runtime-main.js.map": "/intro-to-tdd-workshop/static/js/runtime-main.76e91417.js.map",
+    "static/js/2.7b20a3c4.chunk.js": "/intro-to-tdd-workshop/static/js/2.7b20a3c4.chunk.js",
+    "static/js/2.7b20a3c4.chunk.js.map": "/intro-to-tdd-workshop/static/js/2.7b20a3c4.chunk.js.map",
+    "index.html": "/intro-to-tdd-workshop/index.html",
+    "precache-manifest.781231189e5b281587dbce97a60a6832.js": "/intro-to-tdd-workshop/precache-manifest.781231189e5b281587dbce97a60a6832.js",
+    "service-worker.js": "/intro-to-tdd-workshop/service-worker.js",
+    "static/js/2.7b20a3c4.chunk.js.LICENSE.txt": "/intro-to-tdd-workshop/static/js/2.7b20a3c4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76e91417.js",
+    "static/js/2.7b20a3c4.chunk.js",
+    "static/js/main.3ee4706e.chunk.js"
+  ]
+}
