@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/intro-to-tdd-workshop/precache-manifest.b9e20e38de473ab40c60b6fad00a5aad.js"
+  "/intro-to-tdd-workshop/precache-manifest.bad1b214596d6c68991c131e9145ddb9.js"
 );
 
 self.addEventListener('message', (event) => {
