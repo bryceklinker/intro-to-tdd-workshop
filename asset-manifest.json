@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.js": "/intro-to-tdd-workshop/static/js/main.3ee4706e.chunk.js",
-    "main.js.map": "/intro-to-tdd-workshop/static/js/main.3ee4706e.chunk.js.map",
+    "main.css": "/intro-to-tdd-workshop/static/css/main.28ba06bc.chunk.css",
+    "main.js": "/intro-to-tdd-workshop/static/js/main.cd079477.chunk.js",
+    "main.js.map": "/intro-to-tdd-workshop/static/js/main.cd079477.chunk.js.map",
     "runtime-main.js": "/intro-to-tdd-workshop/static/js/runtime-main.76e91417.js",
     "runtime-main.js.map": "/intro-to-tdd-workshop/static/js/runtime-main.76e91417.js.map",
-    "static/js/2.7b20a3c4.chunk.js": "/intro-to-tdd-workshop/static/js/2.7b20a3c4.chunk.js",
-    "static/js/2.7b20a3c4.chunk.js.map": "/intro-to-tdd-workshop/static/js/2.7b20a3c4.chunk.js.map",
+    "static/js/2.0454526d.chunk.js": "/intro-to-tdd-workshop/static/js/2.0454526d.chunk.js",
+    "static/js/2.0454526d.chunk.js.map": "/intro-to-tdd-workshop/static/js/2.0454526d.chunk.js.map",
     "index.html": "/intro-to-tdd-workshop/index.html",
-    "precache-manifest.781231189e5b281587dbce97a60a6832.js": "/intro-to-tdd-workshop/precache-manifest.781231189e5b281587dbce97a60a6832.js",
+    "precache-manifest.df5434f867ab5e90e189e34f5425b501.js": "/intro-to-tdd-workshop/precache-manifest.df5434f867ab5e90e189e34f5425b501.js",
     "service-worker.js": "/intro-to-tdd-workshop/service-worker.js",
-    "static/js/2.7b20a3c4.chunk.js.LICENSE.txt": "/intro-to-tdd-workshop/static/js/2.7b20a3c4.chunk.js.LICENSE.txt"
+    "static/css/main.28ba06bc.chunk.css.map": "/intro-to-tdd-workshop/static/css/main.28ba06bc.chunk.css.map",
+    "static/js/2.0454526d.chunk.js.LICENSE.txt": "/intro-to-tdd-workshop/static/js/2.0454526d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.76e91417.js",
-    "static/js/2.7b20a3c4.chunk.js",
-    "static/js/main.3ee4706e.chunk.js"
+    "static/js/2.0454526d.chunk.js",
+    "static/css/main.28ba06bc.chunk.css",
+    "static/js/main.cd079477.chunk.js"
   ]
 }
