@@ -1,0 +1,2 @@
+.presentation{display:grid;height:100%;grid-template-areas:"header" "main" "footer";grid-template-rows:auto 1fr auto}.presentation header{grid-area:header}.presentation footer{grid-area:footer}.presentation main{grid-area:main}footer,header{padding-left:1em;padding-right:1em;background-color:#03a9f4}footer{display:grid;grid-template-columns:1fr auto;align-content:center;flex-direction:row}h3{font-weight:700;font-size:2em}#root,body,html{height:100%;width:100%;margin:0;font-family:"Roboto","Helvetica","Arial","sans-serif"}
+/*# sourceMappingURL=main.8a8bf544.chunk.css.map */
