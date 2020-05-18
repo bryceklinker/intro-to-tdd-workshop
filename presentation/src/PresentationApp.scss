@@ -1,0 +1,20 @@
+.presentation {
+  display: grid;
+  height: 100%;
+  grid-template-areas: "header"
+                       "main"
+                       "footer";
+  grid-template-rows: auto 1fr auto;
+
+  header {
+    grid-area: header;
+  }
+
+  footer {
+    grid-area: footer;
+  }
+
+  main {
+    grid-area: main;
+  }
+}

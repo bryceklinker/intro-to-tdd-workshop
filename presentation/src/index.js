@@ -2,10 +2,15 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import {PresentationApp } from './PresentationApp';
 import * as serviceWorker from './serviceWorker';
+import { BrowserRouter } from 'react-router-dom';
+
+import './index.scss';
 
 ReactDOM.render(
   <React.StrictMode>
-    <PresentationApp />
+    <BrowserRouter>
+      <PresentationApp />
+    </BrowserRouter>
   </React.StrictMode>,
   document.getElementById('root')
 );

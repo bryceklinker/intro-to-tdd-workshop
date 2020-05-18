@@ -1,0 +1,11 @@
+@import '../styles/colors';
+
+footer {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  background-color: $primary-color;
+  align-content: center;
+  flex-direction: row;
+  padding-right: 1em;
+  padding-left: 1em;
+}
