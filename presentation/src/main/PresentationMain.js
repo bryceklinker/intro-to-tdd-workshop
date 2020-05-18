@@ -8,10 +8,10 @@ export function PresentationMain() {
     return (
         <main>
             <Switch>
-                <Route path="/welcome" component={WelcomeSlide}/>
-                <Route path="/why-tdd" component={WhyTddSlide}/>
-                <Route path="/tdd-rules" component={TddRulesSlide}/>
-                <Redirect from="/" to="/welcome"/>
+                <Route path="/intro-to-tdd-workshop/welcome" component={WelcomeSlide}/>
+                <Route path="/intro-to-tdd-workshop/why-tdd" component={WhyTddSlide}/>
+                <Route path="/intro-to-tdd-workshop/tdd-rules" component={TddRulesSlide}/>
+                <Redirect from="*" to="/intro-to-tdd-workshop/welcome"/>
             </Switch>
         </main>
     )
